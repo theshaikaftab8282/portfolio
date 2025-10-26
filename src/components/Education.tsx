@@ -7,7 +7,7 @@ const Education = () => {
       school: "Sacred Heart University",
       degree: "Master of Science in Business Analytics",
       location: "Fairfield, CT",
-      period: "Expected 2026",
+      period: "Dec 2025",
       gpa: "3.81/4.0",
       highlights: [
         "Advanced Data Analytics",
