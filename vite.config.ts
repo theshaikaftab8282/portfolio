@@ -10,6 +10,7 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  base: "/biz-analytics-folio/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
