@@ -13,7 +13,7 @@ const projects = [
       "Developed a machine learning model using Python and Streamlit to predict Toyota car prices with an R² score of 0.89. Features interactive data visualization and real-time price predictions based on multiple vehicle attributes.",
     image: toyotaImg,
     tags: ["Python", "Pandas", "Scikit-learn", "Streamlit", "ML"],
-    link: "#",
+    link: "https://github.com/theshaikaftab8282/Toyota-Price--Predictor.git",
   },
   {
     title: "Sudoku Solver using AI",
@@ -21,7 +21,7 @@ const projects = [
       "Created an intelligent Sudoku Solver using Constraint Satisfaction Problem (CSP) and AC-3 algorithm, improving solving speed by 30%. Implements backtracking and arc consistency for efficient puzzle resolution.",
     image: sudokuImg,
     tags: ["Python", "Jupyter Notebook", "CSP", "AI Algorithms"],
-    link: "#",
+    link: "https://github.com/theshaikaftab8282/Sudoku-CSP-Solver.git",
   },
   {
     title: "OpenAI API Accuracy Testing Model",
@@ -29,7 +29,7 @@ const projects = [
       "Designed a comprehensive API testing framework comparing GPT-4.1 and GPT-4-mini models, analyzing accuracy and latency metrics. Visualized performance insights using Power BI dashboards for decision-making.",
     image: openaiImg,
     tags: ["Python", "API Testing", "Power BI", "Data Analysis"],
-    link: "#",
+    link: "https://github.com/theshaikaftab8282",
   },
 ];
 

@@ -30,7 +30,7 @@ const Footer = () => {
               <Mail className="h-5 w-5" />
             </a>
             <a
-              href="#"
+              href="https://github.com/theshaikaftab8282"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-secondary transition-colors"

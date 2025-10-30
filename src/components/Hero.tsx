@@ -54,7 +54,7 @@ const Hero = () => {
               <Button
                 size="lg"
                 className="bg-secondary hover:bg-secondary/90 text-white font-semibold"
-                onClick={() => window.open("#", "_blank")}
+                onClick={() => window.open("https://drive.google.com/file/d/1X0u-zFvjUDUILtK7-N-EGpiWob46uvWu/view?usp=drive_link", "_blank")}
               >
                 <Download className="mr-2 h-5 w-5" />
                 View Resume
